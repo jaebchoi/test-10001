@@ -1,0 +1,5 @@
+
+image:
+  name: test-10001-tests-docker
+  imagePullPolicy: IfNotPresent
+  dockerRepo: ""
